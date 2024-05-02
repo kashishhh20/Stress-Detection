@@ -1,0 +1,2 @@
+This project implements a Stress Detection System using Natural Language Processing (NLP) techniques and Machine Learning algorithms to analyze textual data and classify stress levels.
+The system preprocesses text data by removing noise such as URLs, punctuation, and stopwords, and applies stemming to reduce words to their root forms. It utilizes a Bernoulli Naive Bayes classifier to classify text into two categories: "No Stress" and "Stress".
